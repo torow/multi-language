@@ -4,7 +4,7 @@ laravel-admin Multi Language
 ## Install
 
 ```
-composer require laravel-admin-extensions/multi-language
+composer require torow/multi-language
 ```
 
 ## Config
